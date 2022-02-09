@@ -17,9 +17,18 @@ Steps involved into developing this model
 
 Models used for predictions:
 
+for predicting Loan Amount and Loan Amount Term:
+1. Linear Regression 
+2. Lasso 
+3. Ridge
+4. DecisionTreeRegressor  
+5. AdaBoostRegressor 
+6. KNeighborsRegressor
+
+for predicting Loan Eligibility Status:
 1. LogisticRegression
 2. DecisionTreeClassifier with Pruning
 3. RandomForestClassifier with Pruning
 4. AdaBoostClassifier
 5. KNeighborsClassifier
-6. keras Tuner 
+
