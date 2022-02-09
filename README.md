@@ -24,6 +24,7 @@ for predicting Loan Amount and Loan Amount Term:
 4. DecisionTreeRegressor  
 5. AdaBoostRegressor 
 6. KNeighborsRegressor
+7. keras Tuner
 
 for predicting Loan Eligibility Status:
 1. LogisticRegression
@@ -31,4 +32,5 @@ for predicting Loan Eligibility Status:
 3. RandomForestClassifier with Pruning
 4. AdaBoostClassifier
 5. KNeighborsClassifier
+6. Keras Tuner
 
