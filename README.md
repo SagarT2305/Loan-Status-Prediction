@@ -2,7 +2,7 @@
 
 Problem Statement_1: For the given dataset, predict the Loan Eligibility Status for applicant.
 Problem Statement_2: For the given dataset, predict the Loan Amount for the applicant.
-Problem Statement_3: For the given dataset, predict the Loan AMount Term for the applicant.
+Problem Statement_3: For the given dataset, predict the Loan Amount Term for the applicant.
 
 
 Steps involved into developing this model
